@@ -176,7 +176,7 @@
 ```
     <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
        <property name="user" value="root"></property>
-       <property name="password" value="czh59281352"></property>
+       <property name="password" value="123456"></property>
        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/redcross?serverTimezone=UTC"></property>
        <property name="driverClass" value="com.mysql.cj.jdbc.Driver"></property>
     </bean>
